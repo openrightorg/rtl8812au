@@ -1,0 +1,4 @@
+rtl8821AU_linux_v4.3.14_13455.20150212_BTCOEX20150128-51.tar.gz filter=lfs diff=lfs merge=lfs -text
+rtl8821AU_linux_v4.3.19.5_17672.20160506_BTCOEX20150921-58_support_kernel4.4_EW.patch filter=lfs diff=lfs merge=lfs -text
+rtl8821AU_linux_v4.3.19.5_17672.20160506_BTCOEX20150921-58.tar.gz filter=lfs diff=lfs merge=lfs -text
+rtl8812AU_linux_v5.1.5_19247.20160830.tar.gz filter=lfs diff=lfs merge=lfs -text
